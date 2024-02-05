@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<listaProductos>
+    <producto>
+        <cantidadEnStock>21</cantidadEnStock>
+        <categoria>Placas base</categoria>
+        <codigo>6</codigo>
+        <descripcion>Placa madre Intel® Z590 LGA 1200 ATX con PCIe 4.0 , 14 + 2 etapas de potencia en equipo</descripcion>
+        <marca>ASUS ROG</marca>
+        <nombre>ASUS ROG STRIX Z590-F GAMING WIFI</nombre>
+        <precio>281.08</precio>
+    </producto>
+    <producto>
+        <cantidadEnStock>2</cantidadEnStock>
+        <categoria>Placas base</categoria>
+        <codigo>7</codigo>
+        <descripcion>Las placas base MSI le permiten administrar velocidades y temperaturas para todos los ventiladores de su sistema y CPU.</descripcion>
+        <marca>MSI</marca>
+        <nombre>MSI MPG X570S EDGE MAX WIFI</nombre>
+        <precio>348.56</precio>
+    </producto>
+    <producto>
+        <cantidadEnStock>10</cantidadEnStock>
+        <categoria>Tarjetas gráficas</categoria>
+        <codigo>8</codigo>
+        <descripcion>RTX.  IT’S ON. Disfruta de los mayores éxitos de ventas de hoy como nunca antes con la fidelidad visual del trazado de rayos en tiempo real y el rendimiento definitivo de DLSS con tecnología de IA.</descripcion>
+        <marca>EVGA</marca>
+        <nombre>EVGA GeForce RTX 3080 Ti FTW3 ULTRA 12GB GDDR6X</nombre>
+        <precio>727.65</precio>
+    </producto>
+    <producto>
+        <cantidadEnStock>2</cantidadEnStock>
+        <categoria>Tarjetas gráficas</categoria>
+        <codigo>9</codigo>
+        <descripcion>La ROG Strix GeForce RTX® 4080 le da un significado completamente nuevo a ir con la corriente.</descripcion>
+        <marca>ASUS ROG</marca>
+        <nombre>ASUS ROG Strix GeForce RTX 4080 OC Edition 16GB GDDR6X DLSS3</nombre>
+        <precio>1673.52</precio>
+    </producto>
+</listaProductos>

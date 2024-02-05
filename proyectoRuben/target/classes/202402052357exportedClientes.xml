@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<listaClientes>
+    <cliente>
+        <apellidos>Ontalba</apellidos>
+        <email>alba@outlook.com</email>
+        <nombre>Alba</nombre>
+        <password>clave456</password>
+        <telefono>987654321</telefono>
+    </cliente>
+    <cliente>
+        <apellidos>López</apellidos>
+        <email>laura@hotmail.es</email>
+        <nombre>Laura</nombre>
+        <password>securepass</password>
+        <telefono>111222333</telefono>
+    </cliente>
+    <cliente>
+        <apellidos>Rodríguez</apellidos>
+        <email>miguel@gmail.com</email>
+        <nombre>Miguel</nombre>
+        <password>secreto</password>
+        <telefono>444333222</telefono>
+    </cliente>
+    <cliente>
+        <apellidos>Sánchez</apellidos>
+        <email>pedro@gmail.com</email>
+        <nombre>Pedro</nombre>
+        <password>mipass</password>
+        <telefono>555555555</telefono>
+    </cliente>
+    <cliente>
+        <apellidos>Diaz</apellidos>
+        <email>ruben@gmail.com</email>
+        <nombre>Ruben</nombre>
+        <password>contraseña123</password>
+        <telefono>123456789</telefono>
+    </cliente>
+</listaClientes>
